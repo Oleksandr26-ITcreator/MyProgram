@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Variables/">
+    <Project Path="../Variables/bin/Debug/MathProblem/MathProblem.csproj" Id="b0d1d749-a8ec-4985-a257-249f10158425" />
+    <Project Path="../Variables/bin/Debug/MultipleAssignment/MultipleAssignment.csproj" Id="06f503cc-cc0d-41d4-b7bb-fd384cd0c592" />
+    <Project Path="../Variables/bin/Debug/VariablesHometask/VariablesHometask.csproj" Id="8b062f1a-3606-49ba-8f78-068cfe9f2076" />
+    <Project Path="../Variables/Variables.csproj" Id="0fd46a9d-a5cf-4106-ae7d-6444d1bfdfdb" />
+  </Folder>
+  <Project Path="bin/Debug/ConsoleColors/ConsoleColors.csproj" Id="a1bff3c0-0ed7-49dd-bf85-c331390e9dfb" />
+  <Project Path="bin/Debug/Hello/Hello.csproj" Id="297a0e2f-00b4-44fc-9703-060f09502ba9" />
+  <Project Path="bin/Debug/HometaskConsol1/HometaskConsol1.csproj" Id="0a635f4b-c73d-426f-a3b5-f041e2d5559f" />
+  <Project Path="bin/Debug/MusicalScale/MusicalScale.csproj" Id="4b720d8b-f285-4bbd-8d14-0f93d37b887c" />
+  <Project Path="bin/Debug/World/World.csproj" Id="df6c6559-6179-4af4-b3e3-1f319029c63b" />
+  <Project Path="MyProgram.csproj" Id="82326a8c-5c65-4bc9-b0e4-43f82cefacae" />
+</Solution>
