@@ -9,7 +9,7 @@ namespace MyProgram
     internal class Program
     {
         static void Main(string[] args)
-        { Console.Write("Hello World!");
+        { Console.Write("Hello World!gfgfg");
             Console.ReadKey();
             //undone means: work in progress
             //to do means: to add a functionality   
